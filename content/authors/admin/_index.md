@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Armand KAPAJ
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Geography, University of Zurich
+  url: "https://www.geo.uzh.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
