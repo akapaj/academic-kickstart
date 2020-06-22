@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Armand KAPAJ
+title: Armand Kapaj
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Zurich
-  url: "https://www.geo.uzh.ch/en.html"
+  url: "https://www.geo.uzh.ch/en/units/giva.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
