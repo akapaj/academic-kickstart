@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Geography, University of Zurich
+- name: University of Zurich
   url: "https://www.geo.uzh.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:armand.kapaj@geo.uzh.ch".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
