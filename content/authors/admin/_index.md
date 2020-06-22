@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Cartography
-- Geographic Information Sciences (GIS)
+- GISciences
 - Geovisualization
 - Navigation
 - Spatial Cognition
@@ -35,9 +35,12 @@ education:
   - course: MSc in Cartography
     institution: Technical Univesity of Munich, Vienna University of Technology, Technical University of Dresden, and University of Twente
     year: 2019
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Geography
+    institution: University of Tirana
+    year: 2013
+  - course: BSc in Geography
+    institution: University of Tirana
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +52,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:armand.kapaj@geo.uzh.ch".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ArmandKapaj
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -58,9 +61,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_KAPAJ.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
