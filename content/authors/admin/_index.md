@@ -39,7 +39,7 @@ education:
     institution: University of Tirana
     year: 2013
   - course: BSc in Geography
-    institution: University of Tirana
+    institution: University of Tiran
     year: 2011
 
 # Social/Academic Networking
