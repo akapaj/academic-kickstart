@@ -38,9 +38,6 @@ education:
   - course: MSc in Geography
     institution: University of Tirana
     year: 2013
-  - course: BSc in Geography
-    institution: University of Tiran
-    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
