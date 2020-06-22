@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 headless = true
 subtitle = ""
 title = "Skills"
@@ -22,4 +22,3 @@ icon_pack = "fas"
 name = "Photography"
 
 +++
-R, ArcGIS Pro
