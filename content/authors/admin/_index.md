@@ -33,7 +33,7 @@ education:
     institution: University of Zurich
     year: 2019 - Ongoing
   - course: MSc in Cartography
-    institution: Technical Univesity of Munich, Vienna University of Technology, Technical University of Dresden, and University of Twente
+    institution: Technical Univesity of Munich, Vienna University of Technology, Technical University of Dresden, University of Twente
     year: 2019
   - course: MSc in Geography
     institution: University of Tirana
