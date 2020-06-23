@@ -18,7 +18,7 @@ organizations:
   url: "https://www.geo.uzh.ch/en/units/giva.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Cartography
@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: img/CV_KAPAJ.pdf
+   link: files/CV_KAPAJ.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
